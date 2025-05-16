@@ -1,6 +1,6 @@
 # Ing-de-Software
-Contenido para la materia de la Universidad del Zulia Ingeneria de Software 
-Sistema web de gestión de reservas para restaurantes
+Contenido para la materia de la Universidad del Zulia Ingeneria de Software.
+Sistema web de gestión de reservas para restaurantes.
 Desarrollar un sistema web de gestión de reservas para restaurantes que ofrezca
 funcionalidades avanzadas para usuarios y restaurantes. 
 Tecnologias a usar:
